@@ -1,0 +1,17 @@
+{
+  "name": "Kill Tide",
+  "short_name": "Kill Tide",
+  "description": "Your private spearfishing journal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071013",
+  "theme_color": "#071013",
+  "icons": [
+    {
+      "src": "/killtide-logo.png",
+      "sizes": "1536x1536",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
